@@ -1,16 +1,19 @@
 Task: What is the Linux command to
 
 Check your present working directory.
-Ans- PWD is The Command to check the present working directory.
+
+**Ans- PWD is The Command to check the present working directory.**
 
 List all the files or directories including hidden files.
-Ans- ls -la is The Command to list all the Directory and files including the Hidden files that start with (.).
+
+**Ans- ls -la is The Command to list all the Directory and files including the Hidden files that start with (.).**
 
 Create a nested directory A/B/C/D/E
-Ans- Command to create the Nested Directories with Specified Path 
-mkdir -p A/B/C/D/E
 
-Basic Linux Commands as Follows :- 
+**Ans- Command to create the Nested Directories with Specified Path 
+mkdir -p A/B/C/D/E**
+
+**Basic Linux Commands as Follows :- **
 
 ls -l--> List the files and directories in long list format with extra information
 
